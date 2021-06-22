@@ -1,7 +1,7 @@
 member:
  rent:
-  min: 81
-  max: 131
+  min: 811
+  max: 1311
  price:
   discount: 3
 vehicle:
